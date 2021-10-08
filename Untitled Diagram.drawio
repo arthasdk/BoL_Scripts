@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:00:55.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="RCwZ-u07mH0EMRcesVIK" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:03:48.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="TM6VsPTjtLEjCZFgvaM7" version="15.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,11 +85,35 @@
         <mxCell id="j5yTIopsilMsChdczQ34-22" value="BARGE REACHED HEMNAGAR / KPD" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-290" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j5yTIopsilMsChdczQ34-24" target="j5yTIopsilMsChdczQ34-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j5yTIopsilMsChdczQ34-24" value="ARRANGE FOR LOADING" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j5yTIopsilMsChdczQ34-27" value="APPOINTMENT OF SURVEYOR AND HANDLER AND CHA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="-80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j5yTIopsilMsChdczQ34-34" target="j5yTIopsilMsChdczQ34-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-34" value="SURVEY CERTIFICATE" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j5yTIopsilMsChdczQ34-36" target="j5yTIopsilMsChdczQ34-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-36" value="EXPORT ANALOGUE&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="j5yTIopsilMsChdczQ34-38" target="j5yTIopsilMsChdczQ34-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-38" value="PAYMENT OF KOPT EXPENSES / WHARFAGE / ROYALTY / SHED / RENT" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="410" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j5yTIopsilMsChdczQ34-40" value="FILING OF SB AND LEO&amp;nbsp;" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="395" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
